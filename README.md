@@ -1,13 +1,13 @@
 # ML_Projects
 ## Fake news prediction
-    About dataset
-    1.id: unique id for a news article
-    2.title: the title of a news article
-    3.text: the text of the article; could be incomplete
-    4.author: author of the news article
-    5.label: a label that marks whether the news article is real or fake:0: real News
-                                                                         1: Fake news
+    Objective and Approach: Developed a machine learning model to distinguish between fake and real news articles by analyzing textual content. Employed techniques such as natural language               processing (NLP) and feature extraction to preprocess and transform the text data into a format suitable for model training.
 
 ## Big Mart Sales Prediction
-    About dataset
-    Item_Identifier,Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type	                          ,Item_Outlet_Sales
+    Objective: Predict future sales of products at Big Mart stores to optimize inventory and improve sales strategies.
+
+    Approach: Analyze historical sales data using machine learning models to identify patterns and forecast future sales. Implement data preprocessing and feature engineering to enhance model           performance.
+   
+## Customer Churn Prediction
+    Objective: Predict customer churn to identify high-risk customers and reduce attrition.
+
+    Approach: Analyzed a dataset of 10,000+ records using Random Forest, Logistic Regression, and SVM; implemented feature engineering and data preprocessing; achieved 86% accuracy.
